@@ -1,0 +1,5 @@
+#!/bin/sh
+rm -rf ../python-stomp*.deb
+rm -rf ../python3-stomp*.deb
+dpkg-buildpackage -rfakeroot -b
+dpkg -c ../python3-stomp*.deb

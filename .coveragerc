@@ -1,0 +1,11 @@
+[report]
+exclude_lines =
+    def __repr__
+    def get_version
+    raise NotImplementedError
+    except ImportError
+    except self.DiscardFrame
+    def get_by_constructor
+    return
+    if PY3:
+    elif PY2

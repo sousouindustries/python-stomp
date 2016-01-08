@@ -1,0 +1,17 @@
+python-stomp (1.0.0-ubuntu3) unstable; urgency=medium
+
+  * Added accept/reject feature for incoming messages.
+
+ -- Sousou Industries Releases <releases@sousouindustries.com>  Sat, 24 Oct 2015 23:01:45 +0200
+
+python-stomp (1.0.0-ubuntu2) unstable; urgency=medium
+
+  * Fixed various encoding issues.
+
+ -- Sousou Industries Releases <releases@sousouindustries.com>  Sat, 24 Oct 2015 21:56:48 +0200
+
+python-stomp (1.0.0-ubuntu1) unstable; urgency=low
+
+  * Initial release.
+
+ -- Sousou Industries Releases <releases@sousouindustries.com>  Thu, 22 Oct 2015 20:37:19 +0200

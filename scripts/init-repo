@@ -1,0 +1,6 @@
+#!/bin/sh
+set +e
+
+git init
+git remote add origin git@bitbucket.org:sousouindustries/python-stomp.git
+git remote add github git@github.com:sousouindustries/python-stomp.git
